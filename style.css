@@ -1,0 +1,348 @@
+body {
+  width: 1280px;
+  color: white;
+  font-family: 'Poiret One', cursive;
+  
+  
+  background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/224685/darkpurplesatin.jpg');
+    padding-top: ; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+.section li{
+  display: inline-block;
+  margin-left: 10%;
+  font-size: 24px;
+  
+
+}
+
+.nav{
+  padding-right: 10%;
+  padding-left:10%;
+}
+
+.slide-image {
+    width: 100%;
+}
+ ul {list-style: none;padding: 0px;margin: 0px;}
+  ul li {display: block;position: relative;float: left;}
+  li ul {display: none;}
+  ul li a {display: block;;color: white;padding: 5px 10px 5px 10px;text-decoration: none;
+           white-space: nowrap;color: #fff;}
+  ul li a:hover {background: #fff;color: #000 ;}
+li:hover ul {display: inline-block;position: absolute;z-index:1;color: white;}/* position: absolute*/;}
+  li:hover li {float: none;}
+  li:hover a {/*background: #fff*/;color: #fff;}
+li:hover li a:hover{
+  color: white;
+} {/*background: #000;color: #fff;*/}
+  #drop-nav li ul li {border-top: 0px;}
+.carousel-holder {
+  margin-top:68.1px;
+    margin-bottom: 30px;
+  margin-left: 29%;
+  width: 100%;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+#logo{
+  font-size: 72px;
+  margin-top: 
+  
+  display: inline-block;
+  margin-left: 2%;
+}
+header h5{
+  margin-left: 70%;
+}
+.bannerTop h4,h3{
+  margin-left: 78%;
+  padding-
+}
+.nav{
+  padding-botto
+}
+#customerService p{
+margin-top:-60px;
+}
+font-size: 24px;
+}
+.main{
+  width: 100%;
+}
+article{
+  display: block;
+  text align: center;
+  
+}body {
+  width: 1280px;
+  color: white;
+  font-family: 'Poiret One', cursive;
+  
+  
+  background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/224685/darkpurplesatin.jpg');
+    padding-top: ; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+h5{
+  color: white;
+}
+#customerService h3, h4{
+  color: white;
+}
+.section li{
+  display: inline-block;
+  margin-left: 10%;
+  font-size: 24px;
+  
+
+}
+
+.nav{
+  padding-right: 10%;
+  padding-left:10%;
+}
+
+.slide-image {
+    width: 100%;
+}
+ ul {list-style: none;padding: 0px;margin: 0px;}
+  ul li {display: block;position: relative;float: left;}
+  li ul {display: none;}
+  ul li a {display: block;background: #2E0854;color: white;padding: 5px 10px 5px 10px;text-decoration: none;
+           white-space: nowrap;color: #fff;}
+  ul li a:hover {background: #fff;color: #000 ;}
+li:hover ul {display: inline-block;position: absolute;z-index:1;color: white;}/* position: absolute*/;}
+  li:hover li {float: none;}
+  li:hover a {/*background: #fff*/;color: #fff;}
+li:hover li a:hover{
+  color: white;
+} {/*background: #000;color: #fff;*/}
+  #drop-nav li ul li {border-top: 0px;}
+.carousel-holder {
+  margin-top:68.1px;
+    margin-bottom: 30px;
+  margin-left: 29%;
+  width: 100%;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+#logo{
+  font-size: 72px;
+  margin-top: 
+  
+  display: inline-block;
+  margin-left: 2%;
+}
+header h5{
+  margin-left: 70%;
+}
+.bannerTop h4,h3{
+  margin-left: 78%;
+  padding-
+}
+.nav{
+  padding-botto
+}
+#customerService p{
+margin-top:-60px;
+}
+font-size: 24px;
+}
+.main{
+  width: 100%;
+}
+article{
+  display: block;
+  text align: center;
+  
+}
+}
+html{
+  background-image:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/224685/darkpurplesatin.jpg");
+}
+.parent{
+  
+  display: flex;
+  width: 600px:
+  text-align: center;
+  justify-content:center;
+  flex-wrap:wrap;
+
+  
+  
+  flex-direction:row;
+}
+.item{
+  margin-right: 10%;
+  margin-bottom:4%;
+  margin-top: 10%;
+}
+.item img{
+  
+  /*height: 50px;*/
+  margin-right:25%;
+  
+  background;
+  height: 480px;
+  width:480px;
+  border-radius: 250px/100%;
+  border: 5px double white;
+
+  color: white;
+  
+  height: 240px;
+  width: 240px;
+  font-weight: 600;
+}
+
+.parent p{
+  text-align: center;
+  width: 200px;
+} 
+.parent img:hover{
+  width: 400px;
+  height: 400px;
+  border-radius: 0px;
+  
+}
+body {
+  width: 1280px;
+  color: white;
+  font-family: 'Poiret One', cursive;
+  
+  
+  background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/224685/darkpurplesatin.jpg');
+    padding-top: ; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+h5{
+  color: white;
+}
+#customerService h3, h4{
+  color: white;
+}
+.section li{
+  display: inline-block;
+  margin-left: 10%;
+  font-size: 24px;
+  
+
+}
+
+.nav{
+  padding-right: 10%;
+  padding-left:10%;
+}
+
+.slide-image {
+    width: 100%;
+}
+ ul {list-style: none;padding: 0px;margin: 0px;}
+  ul li {display: block;position: relative;float: left;}
+  li ul {display: none;}
+  ul li a {display: block;background: #2E0854;color: white;padding: 5px 10px 5px 10px;text-decoration: none;
+           white-space: nowrap;color: #fff;}
+  ul li a:hover {background: #fff;color: #000 ;}
+li:hover ul {display: inline-block;position: absolute;z-index:1;color: white;}/* position: absolute*/;}
+  li:hover li {float: none;}
+  li:hover a {/*background: #fff*/;color: #fff;}
+li:hover li a:hover{
+  color: white;
+} {/*background: #000;color: #fff;*/}
+  #drop-nav li ul li {border-top: 0px;}
+.carousel-holder {
+  margin-top:68.1px;
+    margin-bottom: 30px;
+  margin-left: 29%;
+  width: 100%;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+#logo{
+  font-size: 72px;
+  margin-top: 
+  
+  display: inline-block;
+  margin-left: 2%;
+}
+header h5{
+  margin-left: 70%;
+}
+.bannerTop h4,h3{
+  margin-left: 78%;
+  padding-
+}
+.nav{
+  padding-botto
+}
+#customerService p{
+margin-top:-60px;
+}
+font-size: 24px;
+}
+.main{
+  width: 100%;
+}
+article{
+  display: block;
+  text align: center;
+  
+}
+}
+html{
+  background-image:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/224685/darkpurplesatin.jpg");
+}
+.parent{
+  
+  display: flex;
+  width: 600px:
+  text-align: center;
+  justify-content:center;
+  flex-wrap:wrap;
+
+  
+  
+  flex-direction:row;
+}
+.item{
+  margin-right: 10%;
+  margin-bottom:4%;
+  margin-top: 10%;
+}
+.item img{
+  
+  /*height: 50px;*/
+  margin-right:25%;
+  
+  background;
+  height: 480px;
+  width:480px;
+  border-radius: 250px/100%;
+  border: 5px double white;
+
+  color: white;
+  
+  height: 240px;
+  width: 240px;
+  font-weight: 600;
+}
+
+.parent p{
+  text-align: center;
+  width: 200px;
+} 
+.parent img:hover{
+  width: 400px;
+  height: 400px;
+  border-radius: 0px;
+  
+}
+
+}
